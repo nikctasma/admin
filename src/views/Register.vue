@@ -8,8 +8,8 @@
                     </div>
                     <div class="btn-wrapper text-center">
                         <a href="#" class="btn btn-neutral btn-icon">
-                            <span class="btn-inner--icon"><img src="img/icons/common/github.svg"></span>
-                            <span class="btn-inner--text">Github</span>
+                            <span class="btn-inner--icon"><img src="img/icons/common/phone.svg"></span>
+                            <span class="btn-inner--text">Phone No</span>
                         </a>
                         <a href="#" class="btn btn-neutral btn-icon">
                             <span class="btn-inner--icon"><img src="img/icons/common/google.svg"></span>
