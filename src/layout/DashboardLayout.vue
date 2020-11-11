@@ -17,7 +17,7 @@
         <sidebar-item :link="{name: 'Login', icon: 'ni ni-key-25 text-info', path: '/login'}"/>
         <sidebar-item :link="{name: 'Register', icon: 'ni ni-circle-08 text-pink', path: '/register'}"/>
         <sidebar-item :link="{name: 'Appointment', icon: 'ni ni-calendar-grid-58 text-green', path: '/appointment'}"/>
-        <sidebar-item :link="{name: 'Chat', icon: 'ni ni-chat-round text-black', path: '/chat'}"/>
+        <sidebar-item :link="{name: 'Chat', icon: 'ni ni-chat-round text-black', path: '/chats'}"/>
 
       </template>
     </side-bar>

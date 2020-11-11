@@ -6,26 +6,6 @@
 
             </div>
         </base-header>
-
-        <!--Charts-->
-        <div class="container-fluid mt--7">
-            <div class="row">
-                <div class="col-xl-8 mb-5 mb-xl-0">
-                </div>
-
-                <div class="col-xl-4">
-
-                </div>
-            </div>
-            <!-- End charts-->
-
-            <!--Tables-->
-            <div class="row mt-5">
-
-            </div>
-            <!--End tables-->
-        </div>
-
     </div>
 </template>
 <script>
